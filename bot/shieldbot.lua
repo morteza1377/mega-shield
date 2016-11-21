@@ -630,7 +630,7 @@ get filter list
 !public [yes|no]
 Set chat visibility in pm !chats or !chatlist commands
 
-!res [username]
+!res [یوزرنیم]
 Returns users name and id by username
 
 !log
